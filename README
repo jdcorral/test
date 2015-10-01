@@ -1,4 +1,8 @@
 another test over here
 hope that this works
+<<<<<<< HEAD
 looks like it did
 this is a change for branch 1001
+=======
+this is a change made to 1001 from github.com
+>>>>>>> 4fe60ccdd5e00c8d41afd680876f815016105001
